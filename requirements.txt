@@ -1,0 +1,9 @@
+dash ==2.7.0
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-bootstrap-components==1.6.0
+numpy==1.21
+opencv-python==4.4.0.42
+os
+rasterio ==1.2.10
+glob
