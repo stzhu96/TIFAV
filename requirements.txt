@@ -7,3 +7,5 @@ gdal ==3.2.3
 geopandas ==0.10.2
 geos ==3.80
 geotiff==1.7.0
+numpy ==1.16.0
+libgdal==3.0.2
