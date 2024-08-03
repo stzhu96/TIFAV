@@ -6,7 +6,6 @@ geos
 geotiff
 numpy 
 osgeo
-gdal
 pyproj
 Shapely
 Fiona
