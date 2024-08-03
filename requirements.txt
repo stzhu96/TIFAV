@@ -3,11 +3,11 @@ dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-bootstrap-components==1.6.0
 geos
-geotiff==1.7.0
-numpy ==1.16.0
-libgdal==3.0.2
+geotiff
+numpy 
+libgdal
 osgeo
-gdal ==3.2.3
+gdal
 pyproj
 Shapely
 Fiona
