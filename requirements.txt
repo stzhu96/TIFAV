@@ -2,15 +2,15 @@ dash==2.7.0
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-bootstrap-components==1.6.0
-osgeo
-pyproj
-Shapely
-GDAL
-Fiona
-geopandas
-rasterio
-gdal ==3.2.3
 geos ==3.80
 geotiff==1.7.0
 numpy ==1.16.0
 libgdal==3.0.2
+osgeo
+gdal ==3.2.3
+pyproj
+Shapely
+Fiona
+geopandas
+rasterio
+
