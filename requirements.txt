@@ -2,6 +2,8 @@ dash==2.7.0
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-bootstrap-components==1.6.0
+cartopy
+geopandas
 geos
 geotiff
 numpy 
@@ -9,6 +11,4 @@ osgeo
 pyproj
 Shapely
 Fiona
-geopandas
 rasterio
-
